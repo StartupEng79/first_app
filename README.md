@@ -1,3 +1,5 @@
- My First App (technically, my second app)
+# Ruby on Rails Practice: first application
 
-This is a microblogging sample application for learning Rails.
+This is a first application for Ruby on Rails based on the [*Ruby on Rails Tutorial*]
+(http://railstutorial.org/) by Michael Hartl.
+When completed, this application will allow users to do something useful and cool.
